@@ -1,0 +1,6 @@
+[submodule "sub1"]
+	path = sub1
+	url = https://github.com/SongChangseok/nextjs-study.git
+[submodule "sub2"]
+	path = sub2
+	url = https://github.com/SongChangseok/udemy-react-study-3.git
